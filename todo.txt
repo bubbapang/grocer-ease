@@ -1,9 +1,0 @@
-
-fix the mythic mountain final boss bug
-    playtest it first
-
-THEN ALL PURELY TECH MATS ARE DONE!!!
-then get greenlit according to anne marie
-
-unnecessary jira ticket backlog:
-fix refreshing on storeid in url not working
