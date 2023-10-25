@@ -33,3 +33,6 @@
 .node_modules
 package-lock.json
 Gemfile.lock
+
+.vscode
+```
