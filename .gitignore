@@ -28,3 +28,8 @@
 # ignoring env file
 .env
 ```
+
+# ignore node modules and package-lock.json and gemfile.lock
+.node_modules
+package-lock.json
+Gemfile.lock
